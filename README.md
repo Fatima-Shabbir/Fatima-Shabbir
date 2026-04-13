@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Fatima Shabbir 👋
 
-<!--
-**Fatima-Shabbir/Fatima-Shabbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+💡 Aspiring AI and Machine Learning Researcher  
+💻 Web and Mobile Application Developer  
 
-Here are some ideas to get you started:
+👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science graduate with strong experience in building scalable web and mobile applications using **React, TypeScript, Flutter, and Firebase**.
+
+🛠️ Skills
+- Python (NumPy, Pandas, Scikit-learn)
+- React, TypeScript, Flutter
+- Firebase, Cloudinary, n8n
+
+📫 Connect With Me
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/fatima-shabbir-/
+
+
+
